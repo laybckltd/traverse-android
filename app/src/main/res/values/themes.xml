@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Traverse" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/cosmic_bg</item>
+        <item name="android:navigationBarColor">@color/cosmic_bg</item>
+        <item name="android:windowBackground">@color/cosmic_bg</item>
+    </style>
+</resources>
